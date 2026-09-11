@@ -235,3 +235,6 @@ This repository serves as the official landing page for Cheetah CD Burner. The s
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Cheetah CD Burner today!**
+
+---
+**Last updated:** 2026-09-11 17:25:05 UTC
