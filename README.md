@@ -237,4 +237,4 @@ This repository serves as the official landing page for Cheetah CD Burner. The s
 **Get the most recent version of Cheetah CD Burner today!**
 
 ---
-**Last updated:** 2026-09-11 22:52:23 UTC
+**Last updated:** 2026-09-12 00:47:01 UTC
